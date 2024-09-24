@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.bg-custom{
+  background-image: url('./assets/bgb.jpg')!important;
+  background-size: cover!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+  /* height: 100%;
+  width: 100%; */
+}
